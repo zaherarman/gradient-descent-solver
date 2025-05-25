@@ -1,0 +1,8 @@
+rastrigin
+steepest
+4
+100
+0.01
+0.5
+
+1 3 4 4

@@ -1,0 +1,26 @@
+Objective Function: Rastrigin
+Algorithm: Steepest Descent
+Dimensionality: 4
+Initial Point: 1.0 3.0 4.0 4.0 
+Iterations: 100
+Tolerance: 0.01000
+Step Size: 0.50000
+
+Optimization process:
+Iteration 1:
+Objective Function Value: 42.00000
+x-values: 1.00000 3.00000 4.00000 4.00000
+
+Iteration 2:
+Objective Function Value: 0.00000
+x-values: 0.00000 0.00000 0.00000 0.00000
+Current Tolerance: 12.96148
+
+Iteration 3:
+Objective Function Value: 0.00000
+x-values: 0.00000 0.00000 0.00000 0.00000
+Current Tolerance: 0.00000
+
+Convergence reached after 3 iterations.
+
+Optimization process completed.
