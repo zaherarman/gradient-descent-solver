@@ -44,13 +44,11 @@ Each function is fully customizable in terms of dimensionality, parameters, and 
 The **Visualizer** offers a dynamic way to observe how the solution progresses over time, giving insights into convergence and search direction. It provides:
 - **2D Contour Plots**: The visualizer shows updates to the contour maps as the algorithm progresses, with the trajectory of the algorithm being displayed as it moves toward the optimal solution.
   
-![image](https://github.com/user-attachments/assets/d6a99297-16f1-4f08-8e27-2c0bbf7eb5ba) 
+![image](https://github.com/user-attachments/assets/f7efb428-ab07-4ea0-839e-562a7705971d)
 
 - **3D Surface Plots**: The visualizer shows updates as 3D surfaces. These plots showcase the function’s behavior in three dimensions, helping to see how the optimization algorithm navigates the landscape.
-  
-![image](https://github.com/user-attachments/assets/c6eae858-48c4-491f-a674-43eb26e9e587)
 
-![image](https://github.com/user-attachments/assets/ff8a433a-2213-44d0-b3a6-99bf33a6aa08)
+![image](https://github.com/user-attachments/assets/6152b0d3-7ce3-4ad6-8d99-87ec8707e114)
 
 ## Features
 1. **Objective Functions:**
