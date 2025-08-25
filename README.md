@@ -1,6 +1,6 @@
 # Gradient Descent Optimizer
 
-This repository is designed to help users understand and implement gradient-based optimization algorithms for unconstrained optimization problems. By combining practical implementations with an intuitive visualizer, the project aims to be a comprehensive educational tool for exploring optimization concepts. The project supports a variety of optimization algorithms and test functions, enabling a hands-on learning experience.
+This repository is designed to help users understand and implement gradient-based optimization algorithms for unconstrained optimization problems. By combining practical implementations with an intuitive visualizer, the project aims to be a comprehensive educational tool for exploring optimization concepts.
 
 ## Project Organization
 
