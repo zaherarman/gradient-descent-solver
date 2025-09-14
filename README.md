@@ -59,7 +59,6 @@ The **Visualizer** offers a dynamic way to observe how the solution progresses o
 2. **Algorithms:**
    - **Steepest Descent**: Standard gradient descent
    - **Momentum Descent**: Gradient descent with a momentum of $$β$$.
-     - Momentum is an enhancement to the gradient descent algorithm that helps the search maintain inertia in a direction, allowing it to smooth out oscillations caused by noisy gradients and glide past flat areas in the search space.
 3. **Input Methods:**
    - **Manual input** via console prompts
    - **File inputs** via a configuration file
